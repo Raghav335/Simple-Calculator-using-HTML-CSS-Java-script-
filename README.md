@@ -28,7 +28,10 @@ simple-calculator/
 
 📸 Screenshot
 
-(https://github.com/Raghav335/Simple-Calculator-using-HTML-CSS-Java-script-/blob/main/calculator.jpg)https://simple-calculator-using-html-css-ja-orcin.vercel.app/Simple%20calculator
+(https://github.com/Raghav335/Simple-Calculator-using-HTML-CSS-Java-script-/blob/main/calculator.jpg)
+
+
+https://simple-calculator-using-html-css-ja-orcin.vercel.app/Simple%20calculator
 
 📌 Notes
 
