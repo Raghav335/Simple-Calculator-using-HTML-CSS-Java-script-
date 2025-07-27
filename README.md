@@ -28,7 +28,7 @@ simple-calculator/
 
 📸 Screenshot
 
-> (Add a screenshot of your calculator UI here, optional)
+(https://github.com/Raghav335/Simple-Calculator-using-HTML-CSS-Java-script-/blob/main/calculator.jpg)
 
 📌 Notes
 
