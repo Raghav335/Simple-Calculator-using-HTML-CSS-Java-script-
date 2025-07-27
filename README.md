@@ -13,7 +13,7 @@ A basic calculator web app built using *HTML, **CSS, and **JavaScript*. It suppo
 
 1. *Download or Clone this Repository*
    ```bash
-   git clone https://github.com/your-username/simple-calculator.git
+   git clone  https://github.com/Raghav335/Simple-Calculator-using-HTML-CSS-Java-script-.git
 
 2. Open the index.html file in your browser
 
